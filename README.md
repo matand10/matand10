@@ -10,9 +10,7 @@
 ## 🚀 About Me
 
 Hi, I'm Matan. A Full-stack / Frontend Developer.
-Working currently as Frontend engineer at [Manteca.AI](https://www.manteca.ai/) in part-time job.
-I'm looking for full-time job as frontend engineer. 
-I own high service consciousness, highly motivated and ability to work in a team!
+Working currently as Frontend engineer at [Ivory-Software](https://www.ivory-sw.com/).
 
 
 
